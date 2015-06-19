@@ -3,9 +3,5 @@ Thumbs.db
 db.json
 *.log
 node_modules/
+public/
 .deploy*/
-scaffolds/
-source/
-themes
-_config.yml
-package.json
